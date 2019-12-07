@@ -7,7 +7,7 @@ body {
 	color: #f7f7f7;
     font-family: 'Lato', Verdana, Helvetica, sans-serif;;
     font-weight: 300;
-	font-size:14px;
+	font-size:16px;
 }
 
 /* Headings */
@@ -209,7 +209,7 @@ table.psets {
 
 .instructor {
   display: inline-block;
-  width: 180px;
+  width: 175px;
   text-align: center;
   margin-right: 10px;
 }
